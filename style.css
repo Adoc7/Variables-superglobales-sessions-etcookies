@@ -1,0 +1,30 @@
+*{
+  background-color: black;
+  color: white;
+}
+header{
+    padding-top: 30px;
+}
+section{
+    padding:10px 40px 10px 40px;
+}
+a{
+  /*margin:40px;*/
+  padding: 10px;
+  border-radius: 10px;
+  font-size:20px;
+  font-weight: bolder;
+  text-decoration: none;
+  background-color:#657369;
+  color:#181c19;
+}
+#sess{
+padding:10px;
+}
+#login, #mdp, #btn{
+  color:red;
+}
+#btn, #sess{
+  font-weight: bolder;
+  background-color:#181c19;
+}
